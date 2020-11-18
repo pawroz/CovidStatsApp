@@ -10,7 +10,7 @@
 * [Contact](#contact)
 
 ## General info
-I want get information about deaths, infected and cured in my in other countries in the world immediately without webrowsers.
+I want get information about deaths, infected and cured in my and other countries in the world immediately without using web browsers.
 
 
 ## Technologies
